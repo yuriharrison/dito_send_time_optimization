@@ -1,0 +1,10 @@
+*.pyc
+*.pyo
+*.pickle
+*.egg-info
+.ipynb_checkpoints
+
+saved_graphs/
+
+# developer enviroments
+.vscode/
